@@ -1,0 +1,17 @@
+INSERT INTO TIPO_MONTARIA (Nome)
+ VALUES ("Biclicleta");
+
+ INSERT INTO TIPO_ITEM (Nome)
+ VALUES ("Pokébola");
+
+ INSERT INTO TIPO_POKEMON (Nome)
+ VALUES ("Dragão");
+
+ INSERT INTO STATUS (Nome)
+ VALUES ("Envenenado");
+
+ INSERT INTO NATURE (Nome)
+ VALUES ("Adamant");
+
+INSERT INTO TIPO_MOVES (Nome)
+ VALUES ("Fogo");
